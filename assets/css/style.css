@@ -448,6 +448,9 @@ main {
   overflow: hidden;
   margin-top: 70px !important;
 }
+section{
+  overflow: hidden;
+}
 /* shop-product-story */
 .shop-product-story .owl-nav {
   display: none;
